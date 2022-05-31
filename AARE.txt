@@ -1,0 +1,11 @@
+Name: AARE
+Exam Number: 64
+
+Your grade for Mathematics is B
+
+Your grade for English is B
+
+Your grade for Computer is B
+
+Your score for Physics is pending
+

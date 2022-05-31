@@ -1,0 +1,11 @@
+Name: onome
+Exam Number: 120442312
+
+Your grade for Mathematics is B
+
+Your grade for English is A
+
+Your grade for Computer is B
+
+Your grade for Physics is D
+
